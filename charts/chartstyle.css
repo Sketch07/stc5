@@ -1,0 +1,38 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+#navbar{
+    height: 80px;
+    background-color: #FF5B22;
+}
+#logo{
+    font-size: 75px;
+    color:#FECDA6;
+    margin-right: 600px;
+}
+#home{
+    color:white;
+        font-size: 35px;
+        margin-right: 25px;
+}
+#module{color:white;
+    font-size: 35px;
+    margin-right: 25px;
+}
+#jounier{color:white;
+    font-size:35px ;
+    margin-right:25px ;
+}
+#conus{color:white;
+    font-size:35px ;
+    margin-right:25px ;
+
+}
+#stck1{
+    height: 700px;
+    width: 1450px;
+}
